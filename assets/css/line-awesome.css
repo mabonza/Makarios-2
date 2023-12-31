@@ -500,7 +500,7 @@
 .la-heart-o:before { content: "\f234"; }
 .la-heartbeat:before { content: "\f235"; }
 .la-history:before { content: "\f236"; }
-.la-home:before { content: "\f237"; }
+.la-Accueil:before { content: "\f237"; }
 .la-hospital-o:before { content: "\f238"; }
 .la-hotel:before { content: "\f239"; }
 .la-hourglass:before { content: "\f23a"; }
@@ -748,7 +748,7 @@
 .la-superscript:before { content: "\f32c"; }
 .la-table:before { content: "\f32d"; }
 .la-tablet:before { content: "\f32e"; }
-.la-tachometer:before { content: "\f32f"; }
+.la-tacAccueilter:before { content: "\f32f"; }
 .la-tag:before { content: "\f330"; }
 .la-tags:before { content: "\f331"; }
 .la-tasks:before { content: "\f332"; }
