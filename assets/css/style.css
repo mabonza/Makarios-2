@@ -3660,7 +3660,7 @@ img {
 }
 
 .feature-block-two .inner-box:before {
-    position: absolute;
+    position: marker;
     content: '';
     top: 0;
     right: 0;
